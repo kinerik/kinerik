@@ -4,6 +4,5 @@
 💻 Front-end Developer & always learning new technologies. <br>
 🚀 Greater focus on JavaScript, Python, React and NextJs. <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl)](https://github.com/kinerik) <br>
-
 ![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl)](https://github.com/kinerik) <br>
