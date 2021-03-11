@@ -4,5 +4,6 @@
 
 * 🚀 Greater focus on JavaScript, Python, React and NextJs. <br>
 
-![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl)](https://github.com/kinerik) <br>
+<br>
+![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl) <br>
