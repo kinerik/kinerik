@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/ehz3LfVj7NvpY8jYUY/giphy.gif" width="30px"> My name is Erik Viana and I'm from Brazil <br>
+### <img src="https://media.giphy.com/media/ehz3LfVj7NvpY8jYUY/giphy.gif" width="30px"> My name is Erik Viana and I'm from Brazil <br>
 
 * 💻 Front-end Developer & always learning new technologies. <br>
 
