@@ -31,14 +31,12 @@
 ## &#x1f4c8; My GitHub Stats
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl)](https://github.com/kinerik) <br>
-<br>
-![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl) <br>
-
-
 <p align="left">
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl" alt="kinerik stats"/>
+
   <br>
+  &nbsp
+
 <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
 </p>
 
