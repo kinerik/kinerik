@@ -30,7 +30,7 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<p align="left">
+<p align="left" pointer-events="none">
 <img width="350em" pointer-events="none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl" alt="kinerik stats"/>
 </p>
 <p align="left">
