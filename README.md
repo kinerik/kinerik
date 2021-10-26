@@ -37,4 +37,4 @@
 <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
 </p>
 
-<img width="350em" src="https://github-readme-twitter-gazf.vercel.app/api?id=kinerik&show_retweet=off&show_reply=off" />
+<img width="350em" pointer-events:"none" src="https://github-readme-twitter-gazf.vercel.app/api?id=kinerik&show_retweet=off&show_reply=off" />
