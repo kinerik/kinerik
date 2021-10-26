@@ -33,10 +33,7 @@
 
 <p align="left">
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl" alt="kinerik stats"/>
-
-  <br>
-  &nbsp
-
+</br>
 <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
 </p>
 
