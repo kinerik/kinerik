@@ -34,3 +34,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl)](https://github.com/kinerik) <br>
 <br>
 ![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl) <br>
+
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl" alt="kinerik stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
+</p>
+
