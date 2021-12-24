@@ -8,9 +8,23 @@
 
 <br>
 
+## &#x1f4c8; My GitHub Stats
 
-🧰 Toolbox
+<p align="left">
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl" alt="kinerik stats"/>
+</p>
+<p align="left">
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
+</p>
+
+
 ---
+<br>
+<div>
+  <p align="center">Olá recrutador 💙 este repositório faz parte de uma série de <br>
+    projetos onde eu mostro meu conhecimento técnico em algumas ferramentas.</p>
+  <br>
+  <div align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -25,15 +39,8 @@
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 
-<br>
+  </div>
 
-
-## &#x1f4c8; My GitHub Stats
-
-<p align="left">
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl" alt="kinerik stats"/>
-</p>
-<p align="left">
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
-</p>
-
+  <p align="center">by Erik Viana © 2021</p>
+  <br>
+</div>
