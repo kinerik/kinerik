@@ -13,7 +13,7 @@
   <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
 </div>
 
----
+##
 <br>
 <div>
   <p align="center">Olá recrutador 💙 este repositório faz parte de uma série de <br>
