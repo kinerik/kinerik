@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### <img src="https://media.giphy.com/media/ehz3LfVj7NvpY8jYUY/giphy.gif" width="30px"> My name is Erik Viana and I'm from Brazil
 
 <br>
@@ -17,6 +19,7 @@
 <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
 </p>
 
+</div>
 
 ---
 <br>
