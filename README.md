@@ -1,7 +1,7 @@
 <div align="center">
   
   <img src="https://media.giphy.com/media/ehz3LfVj7NvpY8jYUY/giphy.gif" width="30px">
-      I'm from Brazil 🌟 My name is Erik Viana and  <br>
+      I'm from Brazil 🌟 My name is Erik Viana.<br>
   🚀 Greater focus on JavaScript, React and NextJs. <br>
   💻 Front-end Developer & always learning new technologies. <br>
 
