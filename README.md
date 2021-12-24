@@ -4,9 +4,11 @@
 
 💻 Front-end Developer & always learning new technologies. <br>
 
-🚀 Greater focus on JavaScript, Python, React and NextJs. <br>
+🚀 Greater focus on JavaScript, React and NextJs. <br>
 
-## &#x1f4c8; My GitHub Stats
+##
+
+  ## &#x1f4c8; My GitHub Stats
 
 <div align="center">
   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl" alt="kinerik stats"/><br>
@@ -32,8 +34,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 
   </div>
 
