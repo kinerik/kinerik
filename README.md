@@ -2,8 +2,7 @@
   
   I am Erik Viana 🧒 and I'm from Brazil<br>
   
-  Front-end Developer 💻<br>
-  always learning new technologies 🚀<br>
+  Front-end Developer 💻 always learning new technologies 🚀<br>
   greater focus on JavaScript React and Next.js⌨<br>
     
 ##
