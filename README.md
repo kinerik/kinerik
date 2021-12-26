@@ -1,11 +1,10 @@
 <div align="center">
   
-  I am Erik Viana 🌟<br>
-  and I'm from Brazil<br>
+  I am Erik Viana 🧒 and I'm from Brazil<br>
   
   Front-end Developer 💻<br>
   always learning new technologies 🚀<br>
-  greater focus on JavaScript React and Next.js.<br>
+  greater focus on JavaScript React and Next.js⌨<br>
     
 ##
 &#x1f4c8; My GitHub Stats
