@@ -1,6 +1,6 @@
 <div align="center">
   
-  I am Erik Viana 🧒 and I'm from Brazil<br>
+  I am Erik 🧒 and I'm from Brazil<br>
   
   Front-end Developer 💻 always learning new technologies 🚀<br>
   greater focus on JavaScript React and Next.js⌨<br>
