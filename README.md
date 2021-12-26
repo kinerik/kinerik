@@ -1,7 +1,6 @@
 <div align="center">
   
   I am Erik Viana 🌟<br>
-  <img src="https://media.giphy.com/media/ehz3LfVj7NvpY8jYUY/giphy.gif" width="20px">
   and I'm from Brazil<br>
   
   Front-end Developer 💻<br>
