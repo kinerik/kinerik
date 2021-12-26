@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/TzXweXeJ9d1IhZ5YAy/giphy.gif" width="30px"><br>
+  <img src="https://media.giphy.com/media/TzXweXeJ9d1IhZ5YAy/giphy.gif" width="120px"><br>
 
   I am Erik Viana 🧒 and I'm from Brazil<br>
   
