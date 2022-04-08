@@ -6,7 +6,6 @@
   greater focus on JavaScript React and Next.js⌨<br>
     
 ##
-&#x1f4c8; My GitHub Stats
 
 <div align="center">
   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl" alt="kinerik stats"/><br><br>
