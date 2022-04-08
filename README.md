@@ -16,7 +16,7 @@
 ##
 <br>
 <div>
-  <p align="center">Olá recrutador 💙 este repositório faz parte de uma série de <br>
+  <p align="center">Olá 💙 este repositório faz parte de uma série de <br>
     projetos onde eu mostro meu conhecimento técnico em algumas ferramentas.</p>
   <br>
   <div align="center">
