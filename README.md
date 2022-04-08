@@ -35,6 +35,6 @@
 
   </div>
 
-  <p align="center">by Erik Viana © 2021</p>
+  <p align="center">by Erik Viana © 2022</p>
   <br>
 </div>
