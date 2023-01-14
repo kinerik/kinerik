@@ -33,6 +33,8 @@
 
   </div>
 
-  <p align="center">by Erik Viana © 2022</p>
+  <p align="center">by Erik Viana © 2023</p>
   <br>
 </div>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kinerik" data-color="#5F7FFF" data-emoji=""  data-font="Inter" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
