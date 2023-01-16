@@ -23,8 +23,8 @@
 ##
 
 <div align="center">
-  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl" alt="kinerik stats"/><br><br>
-  <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
+  <img width="350em" src="https://github-readme-stats-three-woad.vercel.app/api/top-langs/?username=kinerik&layout=compact&theme=nightowl" alt="kinerik stats"/><br><br>
+  <img width="350em" src="https://github-readme-stats-three-woad.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
 </div>
 
 <br>
