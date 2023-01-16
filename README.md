@@ -11,7 +11,7 @@
 
 <br>
   
-![Snake animation](https://github.com/seu-usuário-aqui/kinerik/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kinerik/kinerik/blob/output/github-contribution-grid-snake.svg)
 
 ##
 <br>
