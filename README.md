@@ -34,9 +34,9 @@
 ##
 <div>
   <p align="center">Hello 💙 this repository is part of a series of projects where I show my technical knowledge in some tools that I use on a daily basis.</p>
+<p align="center">by Erik Viana © 2023</p>
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=kinerik)
+  </div>
 
-  <p align="center">by Erik Viana © 2023</p>
-  <br>
-</div>
-
-
+  
