@@ -1,9 +1,6 @@
 <div align="center">
   
-  I am Erik 🧒 I'm from Brazil<br>
-  
-  Front-end Developer 💻 always learning new technologies 🚀<br>
-  greater focus on JavaScript React and Next.js⌨<br>
+  I am Erik 🧒 I'm from Brazil, front-end Developer 💻 always learning new technologies 🚀 greater focus on JavaScript React and Next.js⌨<br>
     
 ##
 
