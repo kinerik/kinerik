@@ -9,11 +9,14 @@
   <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kinerik&hide=contribs,prs&theme=nightowl" alt="kinerik most languages"/>
 </div>
 
+<br>
+  
+![Snake animation](https://github.com/seu-usuário-aqui/kinerik/blob/output/github-contribution-grid-snake.svg)
+
 ##
 <br>
 <div>
-  <p align="center">Olá 💙 este repositório faz parte de uma série de <br>
-    projetos onde eu mostro meu conhecimento técnico em algumas ferramentas.</p>
+  <p align="center">Olá 💙 este repositório faz parte de uma série de projetos onde eu mostro meu conhecimento técnico em algumas ferramentas que utilizo no dia a dia.</p>
   <br>
   <div align="center">
     
