@@ -23,8 +23,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/kinerik"
-    width="360"
-    height="120"
+    width="800"
+    height="250"
   />
 </a>
   
