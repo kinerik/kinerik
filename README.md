@@ -20,6 +20,14 @@
 
 <div align="center">
   
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/kinerik"
+    width="360"
+    height="120"
+  />
+</a>
+  
 ##
 
 <div align="center">
